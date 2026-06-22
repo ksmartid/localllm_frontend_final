@@ -1,3 +1,8 @@
+
+https://github.com/ksmartid/localllm_frontend_final
+
+https://github.com/ksmartid/localllm_backend_final
+
 실행방법_localllm_backend_final_localllm_frontend_final
 
 [1] localllm_backend_final 프로젝트 실행 방법(fastapi)
